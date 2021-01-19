@@ -19,7 +19,7 @@ public class ImplementacaoUserDetailsService implements UserDetailsService {
 	private UsuarioRepository usuarioRepository;
 	
 	@Autowired
-	private JdbcTemplate jdbcTemplate;
+	private JdbcTemplate jdbcTemplat; 
 
 	@Override
 	public UserDetails loadUserByUsername(String username) throws UsernameNotFoundException {
@@ -38,7 +38,7 @@ public class ImplementacaoUserDetailsService implements UserDetailsService {
 		String constraint = usuarioRepository.consultaConstraintRole();
 		
 		if(constraint != null) {
-				jdbcTemplate.execute(" alter table usuarios_role DROP CONSTRAINT " + constraint);
+				jdbcTemplat.execute(" alter table usuarios_role DROP CONSTRAINT " + constraint);
 		}
 		
 		usuarioRepository.insereAcessoRolePadrao(id);

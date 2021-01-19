@@ -1,0 +1,17 @@
+C:\ws-meira\aplicativospringrestapi\src\main\java\aplicativo\api\rest\AplicativospringrestapiApplication.java
+C:\ws-meira\aplicativospringrestapi\src\main\java\aplicativo\api\rest\service\ImplementacaoUserDetailsService.java
+C:\ws-meira\aplicativospringrestapi\src\main\java\aplicativo\api\rest\ObjetoErro.java
+C:\ws-meira\aplicativospringrestapi\src\main\java\aplicativo\api\rest\model\Usuario.java
+C:\ws-meira\aplicativospringrestapi\src\main\java\aplicativo\pringrestapi\security\JWTApiAutenticacaoFilter.java
+C:\ws-meira\aplicativospringrestapi\src\main\java\aplicativo\api\rest\ServletInitializer.java
+C:\ws-meira\aplicativospringrestapi\src\main\java\aplicativo\pringrestapi\security\JWTTokenAutenticacaoService.java
+C:\ws-meira\aplicativospringrestapi\src\main\java\aplicativo\api\rest\model\Telefone.java
+C:\ws-meira\aplicativospringrestapi\src\main\java\aplicativo\api\rest\model\Role.java
+C:\ws-meira\aplicativospringrestapi\src\main\java\aplicativo\api\rest\repository\TelefoneRepository.java
+C:\ws-meira\aplicativospringrestapi\src\main\java\aplicativo\pringrestapi\security\JWTLoginFilter.java
+C:\ws-meira\aplicativospringrestapi\src\main\java\aplicativo\api\rest\repository\UsuarioRepository.java
+C:\ws-meira\aplicativospringrestapi\src\main\java\aplicativo\api\rest\ApplicationContextLoad.java
+C:\ws-meira\aplicativospringrestapi\src\main\java\aplicativo\api\rest\controller\IndexController.java
+C:\ws-meira\aplicativospringrestapi\src\main\java\aplicativo\api\rest\model\UsuarioDTO.java
+C:\ws-meira\aplicativospringrestapi\src\main\java\aplicativo\pringrestapi\security\WebConfigSecurity.java
+C:\ws-meira\aplicativospringrestapi\src\main\java\aplicativo\api\rest\ControleExcecoes.java

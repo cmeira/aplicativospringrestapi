@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: aplicativo.api.rest.AplicativospringrestapiApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.413 s - in aplicativo.api.rest.AplicativospringrestapiApplicationTests

@@ -1,0 +1,17 @@
+aplicativo\api\rest\model\Telefone.class
+aplicativo\api\rest\model\UsuarioDTO.class
+aplicativo\api\rest\AplicativospringrestapiApplication.class
+aplicativo\api\rest\ControleExcecoes.class
+aplicativo\pringrestapi\security\WebConfigSecurity.class
+aplicativo\api\rest\model\Usuario.class
+aplicativo\pringrestapi\security\JWTTokenAutenticacaoService.class
+aplicativo\api\rest\ServletInitializer.class
+aplicativo\pringrestapi\security\JWTApiAutenticacaoFilter.class
+aplicativo\api\rest\repository\TelefoneRepository.class
+aplicativo\api\rest\service\ImplementacaoUserDetailsService.class
+aplicativo\pringrestapi\security\JWTLoginFilter.class
+aplicativo\api\rest\ApplicationContextLoad.class
+aplicativo\api\rest\controller\IndexController.class
+aplicativo\api\rest\model\Role.class
+aplicativo\api\rest\ObjetoErro.class
+aplicativo\api\rest\repository\UsuarioRepository.class
